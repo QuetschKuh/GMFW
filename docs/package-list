@@ -1,0 +1,9 @@
+de.lolsu.game.commands
+de.lolsu.game.events
+de.lolsu.game.events.custom
+de.lolsu.game.events.midgame
+de.lolsu.game.events.pregame
+de.lolsu.game.main
+de.lolsu.game.managers
+de.lolsu.game.misc
+de.lolsu.game.netty

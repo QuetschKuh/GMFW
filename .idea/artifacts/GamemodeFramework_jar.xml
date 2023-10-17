@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GamemodeFramework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GamemodeFramework_jar</output-path>
+    <root id="archive" name="GamemodeFramework.jar">
+      <element id="module-output" name="GamemodeFramework" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Spigot/spigot-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

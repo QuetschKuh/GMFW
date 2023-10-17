@@ -1,0 +1,68 @@
+# The directory where the maps are stored. This will usually be relative to the spigot.jar but can be made absolute by just typing a / in front (not recommended)
+mapdir: "maps/"
+
+# There need to be at least 10 lines here. Avoid long messages, line breaks and colours
+InfoTexts:
+  - Made by me!
+  - Made by none other than me!
+  - https://lolsu.de/
+  - Go visit lolsu.de
+  - Ye haw!
+  - Woohoo!
+  - Yahoo!
+  - gf stands for get fucked
+  - gg stands for get good
+  - gl stands for get lost
+  - wp stands for waste package
+  - What is the meaning of life?
+  - Efficiency pure!
+  - Under 2k lines of code!
+  - Inspired by my childhood
+  - Rest in peace Java HiveMC
+  - R.I.P HiveMC Java Edition
+  - You should see the Admin Commands
+  - Really proud of this one
+  - I think I did a good job here
+  - Only with the best setup features
+  - /gmsetup is way too epic
+  - Use /getmap to get the name of the map!
+  - What is this map called? /getmap tells you!
+  - Ever wondered about the map name? Just /getmap
+  - I love you <3
+  - Let me hug you :)
+  - You look great today!
+  - Good luck and have fun!
+  - Let's spread some positivity!
+  - Stop being so negative all the time!
+  - ♪ Don't Worry, Be Happy ♪
+  - Hotel? Trivago. (#notsponsored)
+  - Mentally stable!
+  - Didn't ask.
+  - I don't remember asking.
+  - Wo's der Bus?
+
+# Each line represents a page. Use <br> for line breaks and §* for chat colours
+Rules:
+  - "
+  <br>      Welcome to the<br>    §d§n§lGamemode Manual§r<br><br>
+  General description of gamemode"
+  - "
+  In the following pages you should describe specific features, mostly with bullet points"
+
+# These lines are presented in pairs of 2. The first line being the big header and the second being the subtitle.
+# Avoid long messages and line breaks. Chat colours can be written using §*
+Credits:
+  - §2Inspired by...
+  - §eHiveMC
+  - §dThoroughly tested by...
+  - §3Husky_san, LegendOfMiracles
+  - §d...and...
+  - §3LightStormy, bausteine50000
+  - §9Special Thanks to...
+  - §bYou for playing!
+
+# Messages containing these words will be blocked, even when typed with special characters or similar in between (e.g. YouNi;;;g*!GERfuck)
+Blacklist:
+  - nigger
+  - neger
+  - negre
